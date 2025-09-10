@@ -2,15 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-
+👨🏻‍💻 About Me
+👨‍💻 &nbsp;Actualmente trabajo en Sancor Salud como Full Stack Developer JAVA + ANGULAR, pero me especializo en Node.js y React también.
+💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones prácticas e innovadoras.
+🎓 &nbsp;Soy autodidacta, siempre en constante aprendizaje para mejorar mis habilidades y mantenerme actualizado.
+🌱 &nbsp;Actualmente sigo profundizando en arquitecturas basadas en microservicios, Web3 y herramientas modernas de desarrollo.
+🧑‍💼 &nbsp;En mi tiempo libre me dedico al freelance, participando en diversos proyectos y aportando valor a diferentes equipos.
+💬 &nbsp;Podés contactarme para colaborar, intercambiar ideas o simplemente charlar sobre tecnología.
+✉️ &nbsp;Correo: joaquin.fiorio@hotmail.com
+📄 &nbsp;Mi CV está disponible para más detalles sobre mi experiencia y formación.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -27,14 +27,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+### 🗃 &nbsp;Bases de Datos
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Versionado y Herramientas 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -48,7 +48,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
