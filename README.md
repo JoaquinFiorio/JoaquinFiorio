@@ -1,8 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Joaquín Fiorio</h2>
 
-### 👨🏻‍💻 &nbsp;Sobre mí
+### 👨🏻‍💻 &nbsp;Sobre mí  
 
-👨🏻‍💻 **About Me**  
 👨‍💻 Actualmente trabajo en **Sancor Salud** como **Full Stack Developer**, especializado en **Node.js, React y Angular**.  
 💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones prácticas e innovadoras.  
 🎓 Soy **autodidacta**, siempre en constante aprendizaje para mejorar mis habilidades y mantenerme actualizado.  
