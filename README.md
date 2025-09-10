@@ -2,15 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨🏻‍💻 About Me
-👨‍💻 &nbsp; Actualmente trabajo en Sancor Salud como Full Stack Developer JAVA + ANGULAR, pero me especializo en Node.js y React también.
-💡 &nbsp; Me apasiona explorar nuevas tecnologías y desarrollar soluciones prácticas e innovadoras.
-🎓 &nbsp; Soy autodidacta, siempre en constante aprendizaje para mejorar mis habilidades y mantenerme actualizado.
-🌱 &nbsp; Actualmente sigo profundizando en arquitecturas basadas en microservicios, Web3 y herramientas modernas de desarrollo.
-🧑‍💼 &nbsp; En mi tiempo libre me dedico al freelance, participando en diversos proyectos y aportando valor a diferentes equipos.
-💬 &nbsp; Podés contactarme para colaborar, intercambiar ideas o simplemente charlar sobre tecnología.
-✉️ &nbsp; Correo: joaquin.fiorio@hotmail.com
-📄 &nbsp; Mi CV está disponible para más detalles sobre mi experiencia y formación.
+👨🏻‍💻 **About Me**  
+👨‍💻 Actualmente trabajo en **Sancor Salud** como **Full Stack Developer**, especializado en **Node.js, React y Angular**.  
+💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones prácticas e innovadoras.  
+🎓 Soy **autodidacta**, siempre en constante aprendizaje para mejorar mis habilidades y mantenerme actualizado.  
+🌱 Actualmente sigo profundizando en **arquitecturas basadas en microservicios**, **Web3** y herramientas modernas de desarrollo.  
+🧑‍💼 En mi tiempo libre me dedico al **freelance**, participando en diversos proyectos y aportando valor a diferentes equipos.  
+💬 Podés contactarme para colaborar, intercambiar ideas o simplemente charlar sobre tecnología.  
+✉️ Correo: joaquin.fiorio@hotmail.com  
+📄 Mi CV está disponible para más detalles sobre mi experiencia y formación. 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
